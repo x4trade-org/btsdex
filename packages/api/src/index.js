@@ -13,13 +13,13 @@ const API_NAMES = [
 ];
 
 const defaultConfig = {
-  name: "BitShares",
-  coreAsset: "BTS",
-  addressPrefix: "BTS",
+  name: "X4trade",
+  coreAsset: "X4T",
+  addressPrefix: "X4T",
   expireInSecs: 15,
   expireInSecsProposal: 24 * 60 * 60,
   reviewInSecsCommittee: 24 * 60 * 60,
-  chainId: "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
+  chainId: "b9ed93a33a2c288fbfa0f2fb24c32394909ad4cff76b8dc8be58bca421c8463f"
 };
 
 var ws,
